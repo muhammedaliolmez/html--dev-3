@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    background-color: #fbf8ff9b;
+    font-family: 'Inter', sans-serif;  
+}
+
+#bilgi p{
+    display: inline-block;
+    margin: 10px;
+    text-decoration: underline;
+}
+#footer h2{
+    letter-spacing: 2px;
+}
+
+.span{
+    color: red;
+    font-weight: bold;
+}
